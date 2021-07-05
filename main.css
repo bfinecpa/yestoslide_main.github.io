@@ -1,0 +1,60 @@
+
+.box
+{
+    padding-bottom: 226px;
+    background: url(yes_img/bg_lightgray.png);
+}
+.main_box
+{
+    display: flex;
+    width: 100%;
+    
+    justify-content: center;
+    height: 448px;
+}
+.main_img   
+{
+    
+    margin-top: 85px;
+    margin-right: 40px;
+    width: 889px;
+    height: 363px;
+
+}
+.start_box
+{
+    margin-top: 54px;
+    height: 49px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.coor_btn
+{
+    
+    margin-right: 30px;
+    
+}
+
+.par_btn
+{
+    width: 201px;
+    margin-right: 50px;
+    
+}
+.start_box img
+{
+    cursor: pointer;
+}
+
+.compo
+{
+    height: 170px;
+}
+
+.bottom_box
+{
+    
+    display: flex;
+    justify-content: center;
+}
