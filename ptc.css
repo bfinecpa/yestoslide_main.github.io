@@ -1,0 +1,48 @@
+body{
+    background-color: #D3D3D3;
+    opacity: 0.9;
+}
+#row
+{
+    display: flex;
+}
+.par_back_img
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: url("img/사각형\ 1653.png");
+    width: 311px;
+    height: 197px;
+}   
+
+.x_img
+{
+    margin-top: 16px;
+    background: url("img/modal_icon_expel.png");
+    width: 74px;
+    height: 74px;
+}
+.yes_no
+{
+
+    margin-top: 12.5px;
+    display: flex;
+    justify-content: center;
+}
+
+.crap_img
+{
+    margin-top: 16px;
+    background: url("img/modal_icon_deleteall.png");
+    width: 74px;
+    height: 74px;
+}
+.del_img
+{
+    margin-top: 16px;
+    background: url("img/modal_icon_delete_imageorvideo.png");
+    width: 74px;
+    height: 74px;
+}
+
