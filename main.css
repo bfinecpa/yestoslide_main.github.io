@@ -58,3 +58,23 @@
     display: flex;
     justify-content: center;
 }
+
+@media (max-height:960px) {
+    .box
+        {
+            height: 600px;
+            background: url(yes_img/bg_lightgray.png);
+        }
+    .main_img   
+        {
+            margin-top: 20px;       
+        }    
+    .start_box
+        {
+            margin-top: 10px;
+        }
+    .bottom_box img
+        {
+            height: 120px;
+        }
+}
