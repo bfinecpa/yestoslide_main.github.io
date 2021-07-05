@@ -1,7 +1,7 @@
 
 .box
 {
-    padding-bottom: 226px;
+    height: 777px;
     background: url(yes_img/bg_lightgray.png);
 }
 .main_box
@@ -42,7 +42,7 @@
     margin-right: 50px;
     
 }
-.start_box img
+.box img
 {
     cursor: pointer;
 }
