@@ -1,0 +1,107 @@
+
+html, body
+{
+    margin: 0px 0px 0px 0px;
+    height: 85%;
+}
+.box
+{
+    width: 100%;
+    height: 100%;
+    background: url(mob_img/bg_lightgray.png);
+}
+.main_box
+{
+    display: flex;
+    width: 100%;
+    padding-top:37.8px;
+    justify-content: center;
+    height: 151px;
+}
+.main_img   
+{   
+    
+    width: 366px;
+    height: 151px;
+
+}
+.start_box
+{
+    
+    height: 49px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.coor_btn
+{
+    width: 168px;
+    
+    
+}
+
+.par_btn
+{
+    width: 168px;
+    
+    
+}
+.search_box
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    height: 49px;
+    padding-bottom: 32px;
+}
+
+.search_btn
+{
+    width: 40px;
+    height: 40px;
+}
+.box img
+{
+    cursor: pointer;
+}
+.sq
+{
+    display: block;
+    overflow: hidden;
+    width: 375px;
+    height: 170px;
+}
+
+.bottom_box
+{
+    
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 130px;
+    margin-top: 40px;
+    
+}
+.line_1
+{
+    display: flex;
+    color: #f28234;
+    font-size: 14px;
+    
+}
+
+.line_2
+{
+    display: flex;
+    color: #7c7d80;
+    font-size: 14px;
+    margin-top: 8px;
+}
+
+.line_3
+{
+    color: #7c7d80;
+    font-weight: bolder;
+    font-size: 14px;
+    margin-top: 16px;
+}
